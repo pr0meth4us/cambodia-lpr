@@ -1,0 +1,13 @@
+paths:
+  raw_images: "data/raw_images"
+  train: "data/train"
+  val: "data/val"
+  test: "data/test"
+  annotations: "data/annotations"
+  models: "models"
+model:
+  pretrained: "yolov5s.pt"
+  trained: "trained_model.pt"
+training:
+  epochs: 50
+  batch_size: 16

@@ -1,0 +1,9 @@
+requests
+opencv-python
+pytorch  # Adjust based on your YOLO version
+yolov5   # Adjust based on your YOLO version
+pytesseract
+pillow
+numpy
+pandas
+flask  # For demo
